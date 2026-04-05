@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run JavaFX" type="Application" factoryName="Application">
+    <module name="Module-1" />
+    <option name="MAIN_CLASS_NAME" value="HelloFX" />
+    <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\JavaFX\javafx-sdk-17.0.16\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+    <option name="PROGRAM_PARAMETERS" value="" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$\Module-1" />
+    <method v="2" />
+  </configuration>
+</component>
