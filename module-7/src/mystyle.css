@@ -1,0 +1,36 @@
+/*
+ * Justin Morrow | Date: 05/02/26 | CSD-420 Module 7.2:
+ * JavaFX CSS style sheet using a shared circle style class (white fill/black stroke) & individual style IDs (red/green)
+ * 
+ * Class Material Resources:
+ * Reading: Ch.31 referenced in the instructions but the digital book ends at Ch.30
+ * Image: Instructions reference an image but not found in the resource materials for Module 7
+ * Files: StyleSheetDemo.java and mystyle.css used for reference
+ *
+ * Online Reference:
+ * https://www.tutorialspoint.com/javafx/javafx_css.htm
+ */
+
+/*
+ * Style Class: white fill with black stroke color
+ */
+.whitecircle {
+  -fx-fill: white;
+  -fx-stroke: black;
+}
+
+/*
+ * Style ID: red circle
+ */
+#redcircle {
+  -fx-fill: red;
+  -fx-stroke: red;
+}
+
+/*
+ * Style ID: green circle
+ */
+#greencircle {
+  -fx-fill: green;
+  -fx-stroke: green;
+}
